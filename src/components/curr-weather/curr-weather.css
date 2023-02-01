@@ -1,0 +1,32 @@
+.weather{
+    border-radius: 6px; 
+    max-width: 1080px;
+    height: 140px;
+    box-shadow: 10px -2px 20px 2 px rgb(0 0 0 / 30%);
+    color:#fff;
+    background-color: rgba(5, 53, 94, 255);
+    margin-top: 20px;
+    padding: 30px;
+    
+}
+.top {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0 20px 20px 20px;
+}
+.city {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+.temp{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1;
+}
+.bottom{
+    color: black;
+    
+}
